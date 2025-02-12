@@ -33,7 +33,5 @@ public class MainActivityTest {
                         withParent(withParent(withId(android.R.id.content))),
                         isDisplayed()));
         textView.check(matches(withText("Hello Munima Hi!")));
-
-
     }
 }
