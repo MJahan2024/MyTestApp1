@@ -1,4 +1,5 @@
-package com.example.mytestapp;public class Rectangle {
+package com.example.mytestapp;
+public class Rectangle {
     private double width;
     private double length;
 
